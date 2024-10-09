@@ -47,7 +47,6 @@ class Custommap extends StatelessWidget {
               Text('(${rating})')
             ],
           ),
-
         ],
       ),
     );
